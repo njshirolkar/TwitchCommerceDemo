@@ -7,3 +7,5 @@ Tiny SwiftUI app that simulates Twitch-style monetization (subs, gifts, bits) an
 
 ## Run
 Open the Xcode project and press **Run**.
+
+![TwitchCommerceDemo screenshot](Docs/demo.png)
